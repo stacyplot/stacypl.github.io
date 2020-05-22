@@ -2,6 +2,7 @@
 # They call me Stacy..
 ## Моя копилка полезных ссылок по frontend, graphic & web design
 
+-------------------------  
 
 ### Все по верстке
 
@@ -21,14 +22,14 @@
 
 
 #### Генераторы:
-* [Общий генератор CSS3.me (скругления, тени, градиент, размытие)](css3.me "CSS3.me")
-* [Css3maker](css3maker.com)
-* [Webcodetools](webcodetools.com)
-* [Css3generator](css3generator.com)
-* [Tridiv создание 3D-моделей](tridiv.http://tridiv.com "3D-модели")
-* [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
-* [Генератор градиента для CSS](cssmatic.com "cssmatic")
-* [Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
++ [Общий генератор CSS3.me (скругления, тени, градиент, размытие)](css3.me "CSS3.me")
++ [Css3maker](css3maker.com)
++ [Webcodetools](webcodetools.com)
++ [Css3generator](css3generator.com)
++ [Tridiv создание 3D-моделей](tridiv.http://tridiv.com "3D-модели")
++ [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
++ [Генератор градиента для CSS](cssmatic.com "cssmatic")
++ [Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
 
 
 #### Шрифты:
