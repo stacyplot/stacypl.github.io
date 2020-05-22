@@ -1,10 +1,10 @@
 # They call me Stacy..
-##Моя копилка полезных ссылок по frontend, graphic & web design
+## Моя копилка полезных ссылок по frontend, graphic & web design
 
 
 ###Все по верстке
 
-####Общее:
+#### Общее:
 1. [Шпаргалка по markdown-файлам](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "Шпаргалка по md")
 2. [Путеводитель по LESS](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_1/intro.html "Путеводитель по Less")
 3. [Видео по префиксам](https://www.youtube.com/watch?v=s0JDCEQDXI4 "Видео по префиксам на Youtube")
@@ -19,7 +19,7 @@
 
 
 
-####Генераторы:
+#### Генераторы:
 *[Общий генератор CSS3.me (скругления, тени, градиент, размытие)](css3.me "CSS3.me")
 *[Css3maker](css3maker.com)
 *[Webcodetools](webcodetools.com)
@@ -30,7 +30,7 @@
 *[Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
 
 
-####Шрифты:
+#### Шрифты:
 *[Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
 *[Конвертер для подключения шрифтов в CSS](transfonter.org "transfonter")
 *[Типограф](artlebedev.ru/tools/typograf "типограф Лебедева")
@@ -38,9 +38,9 @@
 
 
 
-###Все по дизайну
+### Все по дизайну
 
-####По дизайну:
+#### По дизайну:
 *[Фотосток unsplash](unsplash.com)
 *[Иконки в разных стилях Icons8](icons8.com "icons8")
 *[Конвертер растровых изображений в векторные](vectorizer.io "vectorizer")
@@ -51,14 +51,14 @@
 *[Сайт с мокапами zippypixels](https://zippypixels.com/ "zippypixels")
 
 
-####Работа с цветом:
+#### Работа с цветом:
 *[Подбор цветов и цветовых схем](colorscheme.ru "colorscheme.ru")
 *[Colorzilla](colorzilla.com/gradient-editor "Colorzilla")
 *[Генератор цветовой палитры](https://coolors.co/generate/dccca3-824c71-4a2545-000001-90aa86 "coolors")
 
 
 
- ###Прототипирование:
+ ### Прототипирование:
 *[Текст ссылки](адрес "Описание")
 
 
