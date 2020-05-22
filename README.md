@@ -32,11 +32,12 @@
 
 
 #### Шрифты:
-* [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
-* [Конвертер для подключения шрифтов в CSS](transfonter.org "transfonter")
-* [Типограф](artlebedev.ru/tools/typograf "типограф Лебедева")
-* [Cheatsheet fontawesome](fontawesome.com/cheatsheet)
++ [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
++ [Конвертер для подключения шрифтов в CSS](transfonter.org "transfonter")
++ [Типограф](artlebedev.ru/tools/typograf "типограф Лебедева")
++ [Cheatsheet fontawesome](fontawesome.com/cheatsheet)
 
+-------------------------  
 
 
 ### Все по дизайну
