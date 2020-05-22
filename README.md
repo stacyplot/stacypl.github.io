@@ -22,45 +22,45 @@
 
 #### Генераторы:
 *[Общий генератор CSS3.me (скругления, тени, градиент, размытие)](css3.me "CSS3.me")
-*[Css3maker](css3maker.com)
-*[Webcodetools](webcodetools.com)
-*[Css3generator](css3generator.com)
-*[Tridiv создание 3D-моделей](tridiv.http://tridiv.com "3D-модели")
-*[Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
-*[Генератор градиента для CSS](cssmatic.com "cssmatic")
-*[Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
+* [Css3maker](css3maker.com)
+* [Webcodetools](webcodetools.com)
+* [Css3generator](css3generator.com)
+* [Tridiv создание 3D-моделей](tridiv.http://tridiv.com "3D-модели")
+* [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
+* [Генератор градиента для CSS](cssmatic.com "cssmatic")
+* [Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
 
 
 #### Шрифты:
-*[Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
-*[Конвертер для подключения шрифтов в CSS](transfonter.org "transfonter")
-*[Типограф](artlebedev.ru/tools/typograf "типограф Лебедева")
-*[Cheatsheet fontawesome](fontawesome.com/cheatsheet)
+* [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
+* [Конвертер для подключения шрифтов в CSS](transfonter.org "transfonter")
+* [Типограф](artlebedev.ru/tools/typograf "типограф Лебедева")
+* [Cheatsheet fontawesome](fontawesome.com/cheatsheet)
 
 
 
 ### Все по дизайну
 
 #### По дизайну:
-*[Фотосток unsplash](unsplash.com)
-*[Иконки в разных стилях Icons8](icons8.com "icons8")
-*[Конвертер растровых изображений в векторные](vectorizer.io "vectorizer")
-*[Для создания инфографики, презентаций, отчетов и тд](https://piktochart.com/ "piktochart")
-*[Для создания инфографики](https://www.easel.ly/ "easel")
-*[Примеры презентаций](http://noteandpoint.com/)
-*[Примеры леттеринга](https://www.behance.net/Richert "Kirill Richert")
-*[Сайт с мокапами zippypixels](https://zippypixels.com/ "zippypixels")
+* [Фотосток unsplash](unsplash.com)
+* [Иконки в разных стилях Icons8](icons8.com "icons8")
+* [Конвертер растровых изображений в векторные](vectorizer.io "vectorizer")
+* [Для создания инфографики, презентаций, отчетов и тд](https://piktochart.com/ "piktochart")
+* [Для создания инфографики](https://www.easel.ly/ "easel")
+* [Примеры презентаций](http://noteandpoint.com/)
+* [Примеры леттеринга](https://www.behance.net/Richert "Kirill Richert")
+* [Сайт с мокапами zippypixels](https://zippypixels.com/ "zippypixels")
 
 
 #### Работа с цветом:
-*[Подбор цветов и цветовых схем](colorscheme.ru "colorscheme.ru")
-*[Colorzilla](colorzilla.com/gradient-editor "Colorzilla")
-*[Генератор цветовой палитры](https://coolors.co/generate/dccca3-824c71-4a2545-000001-90aa86 "coolors")
+* [Подбор цветов и цветовых схем](colorscheme.ru "colorscheme.ru")
+* [Colorzilla](colorzilla.com/gradient-editor "Colorzilla")
+* [Генератор цветовой палитры](https://coolors.co/generate/dccca3-824c71-4a2545-000001-90aa86 "coolors")
 
 
 
  ### Прототипирование:
-*[Текст ссылки](адрес "Описание")
+* [Текст ссылки](адрес "Описание")
 
 
 
