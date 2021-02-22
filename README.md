@@ -1,10 +1,10 @@
 
 # They call me Stacy..
-**## Моя копилка полезных ссылок по frontend, graphic & web design**
+## Моя копилка полезных ссылок по frontend, graphic & web design
 
 -------------------------  
 
-***### Все по верстке***
+### Все по верстке
 
 #### Общее:
 1. [Шпаргалка по markdown-файлам](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "Шпаргалка по md")
@@ -72,7 +72,7 @@
 -------------------------  
 
 
-***### Все по дизайну***
+### Все по дизайну
 
 #### По дизайну:
 * [Фотосток unsplash](unsplash.com)
