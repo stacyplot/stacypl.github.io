@@ -21,6 +21,7 @@
 1. [Путеводитель по LESS](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_1/intro.html "Путеводитель по Less")
 2. [Путеводитель по SASS/SCSS](https://tproger.ru/translations/complete-sass-guide/ "Путеводитель по SASS/SCSS")
 3. [Путеводитель по SASS/SCSS #2](https://sass-scss.ru/guide/ "Путеводитель по SASS/SCSS #2")
+4. [Справочник по PHP](https://www.php.net/manual/ru/langref.php "Справочник по PHP")
 
 
 #### Библиотеки и плагины:
