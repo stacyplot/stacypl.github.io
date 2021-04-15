@@ -15,6 +15,7 @@
 6. [Справка по тегам, верстке](webref.ru "webref")
 7. [Как сделать карусель на чистом CSS](https://css-tricks.com/how-to-make-a-css-only-carousel/ "css-tricks")
 8. [Как сделать эффект всплывания Netflix на чистом CSS](https://css-tricks.com/how-to-re-create-a-nifty-netflix-animation-in-css/ "css-tricks")
+9. [Сайт-сервис по Email-рассылкам](https://www.getresponse.ru/ "getresponse.ru")
 
 
 #### Путеводители:
@@ -22,6 +23,7 @@
 2. [Путеводитель по SASS/SCSS](https://tproger.ru/translations/complete-sass-guide/ "Путеводитель по SASS/SCSS")
 3. [Путеводитель по SASS/SCSS #2](https://sass-scss.ru/guide/ "Путеводитель по SASS/SCSS #2")
 4. [Справочник по PHP](https://www.php.net/manual/ru/langref.php "Справочник по PHP")
+5. [Шпаргалка Wp-kama по Wordpress](https://wp-kama.ru/handbook/cheatsheet "WP-kama")
 
 
 #### Библиотеки и плагины:
@@ -41,6 +43,9 @@
 + [Генератор иконочных шрифтов](http://fontello.com/ "Генератор frontello")
 + [Генератор градиента для CSS](cssmatic.com "cssmatic")
 + [Трансформирование объектов](html-css-js.com/css/generator/transform/ "html-css-js")
++ [CSS Grid Generator](https://cssgrid-generator.netlify.app/ "cssgrid-generator")
++ [Генератор русской рыбы-текста](https://fishtext.ru/index.php "Русская рыба-текст")
++ [Генератор SVG-sprite](https://svgsprit.es/ "SVG-sprite")
 
 
 #### Шрифты:
